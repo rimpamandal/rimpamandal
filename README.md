@@ -1,12 +1,7 @@
-<p align="center" style="font-size: 80px;">
-<strong>Hi there👋, I'm Rimpa Mandal </strong>
-</p>
 
+## Hi there👋, I'm Rimpa Mandal 
 
-<p align="center">
 A passionate Data Analyst 📊 from India
-</p>
-
 
 *🔭 I’m a lifelong learner, currently exploring more about Data Analytics!*
 
