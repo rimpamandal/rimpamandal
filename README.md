@@ -15,7 +15,7 @@ A passionate Data Analyst 📊 from India
 
 -📫 Reach me at: Gmail: [rimpamandal786@gmail.com](mailto:rimpamandal786@gmail.com)
 
--🔗 Connect with me at: LinkedIn:  [LinkedIn](https://www.linkedin.com/in/rimpamandal)
+-🔗 Connect with me at: LinkedIn:  [LinkedIn](https://www.linkedin.com/in/rimpamandal-1137382a2)
 
 -❤️ I love learning new things!
 
