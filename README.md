@@ -9,7 +9,7 @@ A passionate Data Analyst 📊 from India
 - Python for advanced data analysis
 - Leveraging AI tools for data insights
 
--🧰 My analytics toolbox contains: MySQL, Python, Power BI, DAX, Power Query, MS Excel, Tableau
+-🧰 My analytics toolbox contains: *MySQL,  Python,  Power BI,  DAX,  Power Query,  MS Excel,  Tableau*
 
 -📚 Specialized in: Data Collection, Data Cleaning, Data Analysis, Data Visualization
 
